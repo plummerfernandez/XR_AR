@@ -19,4 +19,6 @@ python -m SimpleHTTPServer 8888
 
 github pages: create branch with the name: "gh-pages"
 
-tiny.cc/xrar
+this is now live:
+https://plummerfernandez.github.io/XR_AR/index.html
+
