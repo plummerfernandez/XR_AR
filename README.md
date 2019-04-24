@@ -19,4 +19,4 @@ python -m SimpleHTTPServer 8888
 
 github pages: create branch with the name: "gh-pages"
 
-tiny.cc/xrar
+tiny.cc/echoyouth
