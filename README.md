@@ -1,4 +1,4 @@
-Echo Youth - a virtual protest echoing and amplifying Extinction Rebellion and Youth Strike 4 Climate protests 
+Echo Alarm - a virtual protest echoing and amplifying Extinction Rebellion and Youth Strike 4 Climate protests 
 by M Plummer-Fernandez
 ---
 
@@ -22,6 +22,6 @@ github pages: created branch with the name: "gh-pages" so that this can be run o
 this is now live:
 https://plummerfernandez.github.io/XR_AR/index.html
 
-tiny.cc/echoyouth
+https://www.echoAR.org
 
 
